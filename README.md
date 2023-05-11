@@ -4,6 +4,7 @@
 I'm a software developer, stydying Computer Science & Econometrics at the AGH UST. I am interested in .NET, JS and Python developement. 
 I am engaged in scientific and social activities at the university. I am a member of a scientific club where I acquire new skills in .NET and Python, and I also serve as the vice-chair of the faculty's student council. 
 
+
 ---
 - 🔭 I’m currently working on ASP .NET Core Web App using MVC designed for car rental 
 - 👨‍🎓 I study Computer Science and Econometrics
