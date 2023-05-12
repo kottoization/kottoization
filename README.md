@@ -19,3 +19,9 @@ I am engaged in scientific and social activities at the university. I am a membe
 
 ---
  ![Kottoization's GitHub stats](https://github-readme-stats.vercel.app/api?username=kottoization&show_icons=true&theme=radical)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kottoization&layout=compact&theme=radical)
+ ![](https://komarev.com/ghpvc/?username=kottoization&color=blueviolet)
+ ![Kottoization's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=kottoization&theme=radical)
+
+
+
