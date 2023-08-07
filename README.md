@@ -6,7 +6,7 @@ I am engaged in scientific and social activities at the university. I am a membe
 
 
 ---
-- 🔭 I’m currently working on ASP .NET Core Web App using MVC designed for car rental 
+- 🔭 I’m currently working on ASP .NET Core Web App using REST API 
 - 👨‍🎓 I study Computer Science and Econometrics
 - 🧩 I love solving problems 
 - 📚 I am currently learning **C#**
