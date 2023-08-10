@@ -19,9 +19,9 @@ I am engaged in scientific and social activities at the university. I am a membe
 
 ---
 
-<div style="display:flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=kottoization&show_icons=true&theme=synthwave" style="width:33%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kottoization&theme=synthwave" style="width:33%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kottoization&size_weight=0.5&layout=compact&count_weight=0.5&theme=synthwave" style="width:33%;"> 
+<div style="display:flex; width:100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=kottoization&show_icons=true&theme=synthwave" style="width:33%; height:100%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kottoization&theme=synthwave" style="width:33%;height:100%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kottoization&size_weight=0.5&layout=compact&count_weight=0.5&theme=synthwave" style="width:33%;height:100%;"> 
 </div>
 
