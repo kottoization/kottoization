@@ -20,8 +20,8 @@ I am engaged in scientific and social activities at the university. I am a membe
 ---
 
 <div style="display:flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=kottoization&show_icons=true&theme=gruvbox" style="width:47%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kottoization&theme=cobalt" style="width:50%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=kottoization&show_icons=true&theme=highcontrast" style="width:47%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kottoization&theme=synthwave" style="width:50%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kottoization&size_weight=0.5&count_weight=0.5&theme=synthwave">
  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kottoization&theme=synthwave">
 </div>
