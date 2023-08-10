@@ -22,7 +22,7 @@ I am engaged in scientific and social activities at the university. I am a membe
 <div style="display:flex;">
   <img src="https://github-readme-stats-ruby-one.vercel.app/api?username=kottoization&show_icons=true&theme=radical" style="width:47%;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kottoization&theme=radical" style="width:50%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kottoization&size_weight=0.5&count_weight=0.5;">
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kottoization;">(https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kottoization&size_weight=0.5&count_weight=0.5">
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kottoization">(https://github.com/anuraghazra/github-readme-stats)
 </div>
 
