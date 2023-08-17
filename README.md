@@ -10,7 +10,7 @@ I am engaged in scientific and social activities at the university. I am a membe
 - 👨‍🎓 I study Computer Science and Econometrics
 - 🧩 I love solving problems 
 - 📚 I am currently learning **C#**
-- 🚀 I am interested in expanding my Fulltack Web Developement and Machine Learning knowledge in the future
+- 🚀 I am interested in expanding my Fullstack Web Developement and Machine Learning knowledge in the future
  ---
  
  <h3 align="left">💻 Languages and Tools:</h3>
