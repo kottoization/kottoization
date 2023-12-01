@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋😎
 I'm a software developer currently pursuing a degree in Computer Science & Econometrics at AGH UST. My primary interests lie in .NET, JS, and Python development.
 
 At university, I actively engage in scientific and social activities. I'm a member of a scientific club where I enhance my skills in .NET and Python while serving as the vice-chair of the faculty's student council.
