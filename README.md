@@ -8,7 +8,7 @@ Regarding my ongoing projects and learning, here's an update:
 - 🔭 I'm currently immersed in developing a Python Crypto Web Scraper that utilizes ML techniques, alongside with an ASP .NET Core Web App integrating REST API.
 - 👨‍🎓 I study Computer Science and Econometrics.
 - 🧩 I love solving problems!
-- 📚 I am currently learning **C#** || REST API, Parallel Programming, Design Patterns.
+- 📚 I am currently learning C# || REST API, Parallel Programming, Design Patterns.
 - 🚀 I am interested in expanding my Fullstack Web Development and Machine Learning knowledge in the future.
  ---
  
