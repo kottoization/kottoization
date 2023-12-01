@@ -19,10 +19,10 @@ Regarding my ongoing projects and learning, here's an update:
 ---
 
 <div style="display: flex; justify-content: space-around; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kottoization&size_weight=0.5&layout=normal&count_weight=0.5&theme=synthwave&hide=cython,html,c,jupyter%20notebook" style="width: 30vw; margin: auto;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kottoization&size_weight=0.5&layout=normal&count_weight=0.5&theme=synthwave&hide=cython,html,c" style="width: 30vw; margin: auto;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kottoization&theme=synthwave" style="width: 30vw; margin: auto;">
   <img src="https://github-readme-stats-one-ebon-16.vercel.app/api?username=kottoization&show_icons=true&theme=synthwave" style="width: 30vw; margin: auto;">
- 
+ <!-- jupyter%20notebook --!>
 </div>
 
 
