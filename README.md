@@ -5,7 +5,7 @@ At university, I actively engage in scientific and social activities. I'm a memb
 
 Regarding my ongoing projects and learning, here's an update:
 ---
-- 🔭 I'm currently immersed in developing a Python Crypto Web Scraper that utilizes ML techniques, alongside an ASP .NET Core Web App integrating REST API.
+- 🔭 I'm currently immersed in developing a Python Crypto Web Scraper that utilizes ML techniques, alongside with an ASP .NET Core Web App integrating REST API.
 - 👨‍🎓 I study Computer Science and Econometrics.
 - 🧩 I love solving problems!
 - 📚 I am currently learning **C#** || REST API, Parallel Programming, Design Patterns.
