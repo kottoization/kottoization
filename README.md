@@ -1,16 +1,15 @@
 ### Hi there 👋
+I'm a software developer currently pursuing a degree in Computer Science & Econometrics at AGH UST. My primary interests lie in .NET, JS, and Python development.
 
+At university, I actively engage in scientific and social activities. I'm a member of a scientific club where I enhance my skills in .NET and Python while serving as the vice-chair of the faculty's student council.
 
-I'm a software developer, studying Computer Science & Econometrics at the AGH UST. I am interested in .NET, JS and Python developement. 
-I am engaged in scientific and social activities at the university. I am a member of a scientific club where I acquire new skills in .NET and Python, and I also serve as the vice-chair of the faculty's student council. 
-
-
+Regarding my ongoing projects and learning, here's an update:
 ---
-- 🔭 I’m currently working on Python Crypto WebScrapper using ML and Data Analysis in Python and ASP .NET Core Web App using REST API 
-- 👨‍🎓 I study Computer Science and Econometrics
-- 🧩 I love solving problems 
-- 📚 I am currently learning **C#** || REST API, Parallel Programming, Design Patterns
-- 🚀 I am interested in expanding my Fullstack Web Developement and Machine Learning knowledge in the future
+- 🔭 I'm currently immersed in developing a Python Crypto Web Scraper that utilizes ML techniques, alongside an ASP .NET Core Web App integrating REST API.
+- 👨‍🎓 I study Computer Science and Econometrics.
+- 🧩 I love solving problems!
+- 📚 I am currently learning **C#** || REST API, Parallel Programming, Design Patterns.
+- 🚀 I am interested in expanding my Fullstack Web Development and Machine Learning knowledge in the future.
  ---
  
  <h3 align="left">💻 Languages and Tools:</h3>
