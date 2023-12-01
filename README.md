@@ -6,7 +6,7 @@ I am engaged in scientific and social activities at the university. I am a membe
 
 
 ---
-- 🔭 I’m currently working on ASP .NET Core Web App using REST API 
+- 🔭 I’m currently working on Python Crypto WebScrapper using ML and Data Analysis in Python and ASP .NET Core Web App using REST API 
 - 👨‍🎓 I study Computer Science and Econometrics
 - 🧩 I love solving problems 
 - 📚 I am currently learning **C#** || REST API, Parallel Programming, Design Patterns
