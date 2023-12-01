@@ -23,7 +23,7 @@ Regarding my ongoing projects and learning, here's an update:
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kottoization&theme=synthwave" style="width:30vw;">   
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kottoization&size_weight=0.5&layout=normal&count_weight=0.5&theme=synthwave&hide=cython,html" style="width:30vw;">
 
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kottoization">
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kottoization)](https://github.com/anuraghazra/github-readme-stats)
  
 </div>
 
