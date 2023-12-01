@@ -21,7 +21,7 @@ Regarding my ongoing projects and learning, here's an update:
 <div style="display:flex; width:100%;">
  <img src="https://github-readme-stats-one-ebon-16.vercel.app/api?username=kottoization&show_icons=true&theme=synthwave" style="width:30vw;"> 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kottoization&theme=synthwave" style="width:30vw;">   
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kottoization&size_weight=0.5&layout=normal&count_weight=0.5&theme=synthwave&hide=cython,html" style="width:30vw;">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kottoization&size_weight=0.5&layout=normal&count_weight=0.5&theme=synthwave&hide=cython,html,c" style="width:30vw;">
  
 </div>
 
