@@ -3,7 +3,7 @@ I'm a software developer currently pursuing a degree in Computer Science & Econo
 
 At university, I actively engage in scientific and social activities. I'm a member of a scientific club where I enhance my skills in .NET and Python while serving as the vice-chair of the faculty's student council.
 
-Regarding my ongoing projects and learning, here's an update:
+An overview of my ongoing projects and continuous learning:
 ---
 - 🔭 I'm currently immersed in developing a Python Crypto Web Scraper that utilizes ML techniques, alongside with an ASP .NET Core Web App integrating REST API.
 - 👨‍🎓 I study Computer Science and Econometrics.
