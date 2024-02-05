@@ -1,5 +1,5 @@
 ### Hello there 👋😎
-I'm a software developer currently pursuing a degree in Computer Science & Econometrics at AGH UST. My primary interests lie in Machine Learning, .NET, Python, and JS development.
+I'm a software developer currently pursuing a degree in Computer Science & Econometrics at AGH UST. My primary interests lie in Machine Learning, .NET, and Python development but I also have intern level experience with JaveScript and Java.
 
 At university, I actively engage in scientific and social activities. I'm a member of a scientific club where I enhance my skills in .NET and Python while serving as the vice-chair of the faculty's student council.
 
