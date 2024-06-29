@@ -21,10 +21,7 @@ An overview of my ongoing projects and continuous learning:
  </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50"/> </a>  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle" width="50" height="50"/> </a><a  href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/> </a>  
  
 ---
-<img src="https://github-readme-stats-git-master-kottoization.vercel.app/api/top-langs/?username=kottoization&size_weight=0.5&layout=normal&count_weight=0.5&theme=synthwave&hide=html,css,rtf,c,cpp" width="66%">
+<img src="https://github-readme-stats-git-master-kottoization.vercel.app/api/top-langs/?username=kottoization&size_weight=0.5&layout=normal&count_weight=0.5&theme=synthwave&hide=html,css,rtf,c,cpp" width="50%" height="300">
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kottoization&theme=synthwave" width="33%" style="margin: 0;">
-<img src="https://github-readme-stats-git-master-kottoization.vercel.app/api?username=kottoization&show_icons=true&theme=synthwave" width="32%" style="margin: 0;">
-
-
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kottoization&theme=synthwave" width="48%" height="150" style="margin: 0;">
+<img src="https://github-readme-stats-git-master-kottoization.vercel.app/api?username=kottoization&show_icons=true&theme=synthwave" width="48%" height="150" style="margin: 0;">
