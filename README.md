@@ -22,7 +22,7 @@ An overview of my ongoing projects and continuous learning:
  
 ---
 <div style="display: flex; justify-content: center;">
-    <img src="https://github-readme-stats-git-master-kottoization.vercel.app/api/top-langs/?username=kottoization&size_weight=0.5&layout=normal&count_weight=0.5&theme=synthwave&hide=html,css,rtf,c,cpp" width="50%" height="300">
+    <img src="https://github-readme-stats-git-master-kottoization.vercel.app/api/top-langs/?username=kottoization&size_weight=0.5&layout=normal&count_weight=0.5&theme=synthwave&hide=html,css,rtf,c,cpp" width="70%" height="300">
 </div>
 <br/>
 <div style="display: flex; justify-content: space-around;">
