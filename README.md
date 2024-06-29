@@ -4,6 +4,7 @@ I'm a software developer currently pursuing a degree in Computer Science & Econo
 At university, I actively engage in scientific and social activities. I'm a member of a scientific club where I enhance my skills in .NET and Python while serving as the vice-chair of the faculty's student council.
 
 I have proffesional experience in Web Development, Testing and DevOps - you can find more information on my [LinkedIn](https://www.linkedin.com/in/mateusz-mulka/) 
+I am also an active user of [LeetCode](https://leetcode.com/u/kotto/)
 
 An overview of my ongoing projects and continuous learning:
 ---
