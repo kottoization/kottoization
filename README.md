@@ -5,7 +5,7 @@ At university, I actively engage in scientific and social activities. I'm a memb
 
 I have proffesional experience in Web Development, Testing and DevOps - you can find more information on my [LinkedIn](https://www.linkedin.com/in/mateusz-mulka/) 
 
-I am also an active user of [LeetCode](https://leetcode.com/u/kotto/)
+I am also an active user of [LeetCode](https://leetcode.com/u/kotto/) ✨
 
 An overview of my ongoing projects and continuous learning:
 ---
