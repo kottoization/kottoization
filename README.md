@@ -9,7 +9,7 @@ I am also an active user of [LeetCode](https://leetcode.com/u/kotto/) ✨
 
 An overview of my ongoing projects and continuous learning:
 ---
-- 🔭 I'm currently immersed in developing a Python Crypto Web Scraper that utilizes ML techniques, alongside with an ASP .NET Core Web App integrating REST API.
+- 🔭 I'm currently immersed in developing an ASP .NET Core Web App integrating REST API.
 - 👨‍🎓 I study Computer Science and Econometrics.
 - 🧩 I love solving problems!
 - 📚 I am currently learning Machine Learning / Deep Learning || LLM RAG Systems || C# || REST API, Parallel Programming, Design Patterns.
