@@ -1,5 +1,5 @@
 ### Hello there 👋😎
-I'm a software developer currently pursuing a degree in Computer Science & Econometrics at AGH UST. My primary interests lie in Machine Learning, .NET, and Python development but I also have intern level work experience with JavaScript and Java.
+I'm a software developer currently pursuing a master's degree in Computer Science & Econometrics at AGH UST. My primary interests lie in Machine Learning, .NET, and Python development but I also have intern level work experience with JavaScript and Java.
 
 At university, I actively engage in scientific and social activities. I'm a member of a scientific club where I enhance my skills in .NET and Python while serving as the vice-chair of the faculty's student council.
 
@@ -9,10 +9,10 @@ I am also an active user of [LeetCode](https://leetcode.com/u/kotto/) ✨
 
 An overview of my ongoing projects and continuous learning:
 ---
-- 🔭 I'm currently immersed in developing an ASP .NET Core Web App integrating REST API.
+- 🔭 I'm currently immersed in developing an ASP .NET Core Web App integrating Microservices with Docker, alongside with a RAG LLM application.
 - 👨‍🎓 I study Computer Science and Econometrics.
 - 🧩 I love solving problems!
-- 📚 I am currently learning Machine Learning / Deep Learning || LLM RAG Systems || C# || REST API, Parallel Programming, Design Patterns.
+- 📚 I am currently learning Machine Learning / Deep Learning || LLM RAG Systems || C# || Microservices || Docker.
 - 🚀 I am interested in expanding my Machine Learning and Web Development knowledge in the future.
  ---
  
