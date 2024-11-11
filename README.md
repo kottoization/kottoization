@@ -13,7 +13,7 @@ An overview of my ongoing projects and continuous learning:
 - 👨‍🎓 I study Computer Science and Econometrics.
 - 🧩 I love solving problems!
 - 📚 I am currently learning Machine Learning / Deep Learning || LLM RAG Systems || C# || Microservices || Docker.
-- 🚀 I am interested in expanding my Machine Learning and Web Development knowledge in the future.
+- 🚀 I am interested in expanding my Machine Learning and Backend Development knowledge in the future.
  ---
  
  <h3 align="left">💻 Languages and Tools:</h3>
