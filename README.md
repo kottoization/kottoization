@@ -25,8 +25,8 @@ An overview of my ongoing projects and continuous learning:
  
 ---
 <div style="display: flex; justify-content: center;">
-    <img align="center" src="https://github-readme-stats-git-master-kottoization.vercel.app/api/top-langs/?username=kottoization&size_weight=0.5&layout=donut&count_weight=0.5&theme=synthwave&hide=html,css,rtf,c,cpp"  height="180px">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kottoization&theme=synthwave"  height="180px" >
+    <img align="center" src="https://github-readme-stats-git-master-kottoization.vercel.app/api/top-langs/?username=kottoization&size_weight=0.5&layout=compact&count_weight=0.5&langs_count=4&theme=synthwave&hide=html,css,rtf,c,cpp"  height="150px">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kottoization&theme=synthwave"  height="150px" >
  
  <!-- <img src="https://github-readme-stats-git-master-kottoization.vercel.app/api?username=kottoization&show_icons=true&theme=synthwave" width="48%" height="150" style="margin: 0;"> -->
 </div>
