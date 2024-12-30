@@ -12,7 +12,7 @@ An overview of my ongoing projects and continuous learning:
 - 🔭 I'm currently immersed in developing an ASP .NET Core Web App integrating Microservices with Docker, alongside with a RAG LLM application.
 - 👨‍🎓 I study Computer Science and Econometrics.
 - 🧩 I love solving problems!
-- 📚 I am currently learning Machine Learning / Deep Learning || LLM RAG Systems || C# || Microservices || Docker.
+- 📚 I am currently learning: LLM RAG and Agent Systems || Deep Learning || C# || Microservices || Docker.
 - 🚀 I am interested in expanding my Machine Learning and Backend Development knowledge in the future.
  ---
  
