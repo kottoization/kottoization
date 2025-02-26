@@ -12,7 +12,8 @@ An overview of my ongoing projects and continuous learning:
 - 🔭 I'm currently immersed in developing an ASP .NET Core Web App integrating Microservices with Docker, alongside with a RAG LLM application and a Deep Learning project related to cryptocurrencies.
 - 👨‍🎓 I study Computer Science and Econometrics.
 - 🧩 I love solving problems!
-- 📚 I am currently learning: LLM RAG and Agent Systems || Deep Learning || Algorithmic Trading.
+- 📚 I am currently learning: LLM RAG || Agent Systems || Deep Learning || Microservices.
+- 🔍 My future learning plans/projects:  Algorithmic Trading || Blockchain related technologies.
 - 🚀 I am interested in expanding my Machine Learning and Backend Development knowledge in the future.
  ---
  
