@@ -1,5 +1,5 @@
 ### Hello there 👋😎
-I'm a software developer currently pursuing a master's degree in Computer Science & Econometrics at AGH UST. My primary interests lie in Machine Learning, .NET, and Python development but I also have intern level work experience with JavaScript and Java.
+I'm a software engineer at UBS focused on C# and python backend development, currently pursuing a master's degree in Computer Science & Econometrics at AGH UST. My primary interests lie in Machine Learning, .NET, and Python development but I also have intern level work experience with JavaScript and Java.
 
 At university, I actively engage in scientific and social activities. I'm a member of a scientific club where I enhance my skills in .NET and Python while serving as the vice-chair of the faculty's student council.
 
