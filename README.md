@@ -1,7 +1,7 @@
 ### Hello there 👋😎
-I'm a software engineer at UBS focused on C# and Python backend development, currently pursuing a master's degree in Computer Science & Econometrics at AGH UST, with a master thesis focused around RAG LLM systems. My primary interests lie in Machine Learning, .NET, and Python development but I also have intern level work experience with JavaScript and Java.
+I'm a software engineer at UBS specializing in backend development with C# and Python. I hold a Master's degree in Computer Science & Econometrics from AGH UST, with a thesis focused on Retrieval-Augmented Generation (RAG) LLM systems. My core expertise lies in Machine Learning and backend development using .NET and Python, complemented by hands-on experience with JavaScript and Java in commercial environments.
 
-At university, I actively engage in scientific and social activities. I am an active member of the faculty’s student council, former vice-chair of the organization and team lead for business partnerships. Throughout my studies, I was also involved in a scientific club focused on .NET and Python development, where I continuously developed my technical and collaborative skills
+During my studies, I was actively involved in scientific and organizational activities. I served as a vice-chair of the faculty’s student council and led the business partnerships team. Throughout my studies, I was also involved in a scientific club focused on .NET and Python development, where I continuously developed my technical and collaborative skills
 
 I have proffesional experience in Web Development, Testing and DevOps - you can find more information on my [LinkedIn](https://www.linkedin.com/in/mateusz-mulka/) 
 
