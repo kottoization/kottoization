@@ -9,8 +9,8 @@ I am also an active user of [LeetCode](https://leetcode.com/u/kotto/) ✨
 
 An overview of my ongoing projects and continuous learning:
 ---
-- 🔭 I'm currently immersed in developing an ASP .NET Core Web App integrating Microservices with Docker, alongside with a RAG LLM application and a Deep Learning project related to cryptocurrencies.
-- 👨‍🎓 I study Computer Science and Econometrics.
+- 🔭 I'm currently immersed in developing a TypeScript Web App integrating Microservices with Docker, alongside with a RAG LLM application.
+- 👨‍🎓 I have a Masters in Computer Science and Econometrics.
 - 🧩 I love solving problems!
 - 📚 I am currently learning: LLM RAG || Agent Systems || Deep Learning || Microservices.
 - 🔍 My future learning plans/projects:  Algorithmic Trading || Blockchain related technologies.
