@@ -21,76 +21,79 @@ An overview of my ongoing projects and continuous learning:
 
 <table cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; border: none;">
   <tr>
-    <td align="center" style="padding: 0; margin: 0; border: none; line-height: 0;">
+    <td align="center" valign="middle" width="80" height="80" style="width:80px; height:80px; padding:6px; margin:0; border:1px solid #30363d; line-height:0;">
       <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" style="display:block; margin:auto; max-width:56px; max-height:56px; width:auto; height:auto;" />
       </a>
     </td>
-    <td align="center" style="padding: 0; margin: 0; border: none; line-height: 0;">
+    <td align="center" valign="middle" width="80" height="80" style="width:80px; height:80px; padding:6px; margin:0; border:1px solid #30363d; line-height:0;">
       <a href="https://www.python.org">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="display:block; margin:auto; max-width:56px; max-height:56px; width:auto; height:auto;" />
       </a>
     </td>
-    <td align="center" style="padding: 0; margin: 0; border: none; line-height: 0;">
+    <td align="center" valign="middle" width="80" height="80" style="width:80px; height:80px; padding:6px; margin:0; border:1px solid #30363d; line-height:0;">
       <a href="https://pandas.pydata.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" style="display:block; margin:auto; max-width:56px; max-height:56px; width:auto; height:auto;" />
       </a>
     </td>
-    <td align="center" style="padding: 0; margin: 0; border: none; line-height: 0;">
+    <td align="center" valign="middle" width="80" height="80" style="width:80px; height:80px; padding:6px; margin:0; border:1px solid #30363d; line-height:0;">
       <a href="https://pytorch.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" style="display:block; margin:auto; max-width:56px; max-height:56px; width:auto; height:auto;" />
       </a>
     </td>
-    <td align="center" style="padding: 0; margin: 0; border: none; line-height: 0;">
+    <td align="center" valign="middle" width="80" height="80" style="width:80px; height:80px; padding:6px; margin:0; border:1px solid #30363d; line-height:0;">
       <a href="https://scikit-learn.org/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="50" height="50"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" style="display:block; margin:auto; max-width:56px; max-height:56px; width:auto; height:auto;" />
       </a>
     </td>
-    <td align="center" style="padding: 0; margin: 0; border: none; line-height: 0;">
+    <td align="center" valign="middle" width="80" height="80" style="width:80px; height:80px; padding:6px; margin:0; border:1px solid #30363d; line-height:0;">
       <a href="https://www.langchain.com/">
-        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" alt="langchain" width="50" height="50"/>
+        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" alt="langchain" style="display:block; margin:auto; max-width:56px; max-height:56px; width:auto; height:auto;" />
       </a>
     </td>
-    <td align="center" style="padding: 0; margin: 0; border: none; line-height: 0;">
+    <td align="center" valign="middle" width="80" height="80" style="width:80px; height:80px; padding:6px; margin:0; border:1px solid #30363d; line-height:0;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="display:block; margin:auto; max-width:56px; max-height:56px; width:auto; height:auto;" />
       </a>
     </td>
-    <td align="center" style="padding: 0; margin: 0; border: none; line-height: 0;">
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle" width="80" height="80" style="width:80px; height:80px; padding:6px; margin:0; border:1px solid #30363d; line-height:0;">
       <a href="https://www.typescriptlang.org/docs/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" style="display:block; margin:auto; max-width:56px; max-height:56px; width:auto; height:auto;" />
       </a>
     </td>
-    <td align="center" style="padding: 0; margin: 0; border: none; line-height: 0;">
+    <td align="center" valign="middle" width="80" height="80" style="width:80px; height:80px; padding:6px; margin:0; border:1px solid #30363d; line-height:0;">
       <a href="https://www.java.com">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" style="display:block; margin:auto; max-width:56px; max-height:56px; width:auto; height:auto;" />
       </a>
     </td>
-    <td align="center" style="padding: 0; margin: 0; border: none; line-height: 0;">
+    <td align="center" valign="middle" width="80" height="80" style="width:80px; height:80px; padding:6px; margin:0; border:1px solid #30363d; line-height:0;">
       <a href="https://azure.microsoft.com/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="azure" width="50" height="50"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="azure" style="display:block; margin:auto; max-width:56px; max-height:56px; width:auto; height:auto;" />
       </a>
     </td>
-    <td align="center" style="padding: 0; margin: 0; border: none; line-height: 0;">
+    <td align="center" valign="middle" width="80" height="80" style="width:80px; height:80px; padding:6px; margin:0; border:1px solid #30363d; line-height:0;">
       <a href="https://www.docker.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" style="display:block; margin:auto; max-width:56px; max-height:56px; width:auto; height:auto;" />
       </a>
     </td>
-    <td align="center" style="padding: 0; margin: 0; border: none; line-height: 0;">
+    <td align="center" valign="middle" width="80" height="80" style="width:80px; height:80px; padding:6px; margin:0; border:1px solid #30363d; line-height:0;">
       <a href="https://www.jenkins.io">
-        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50"/>
+        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" style="display:block; margin:auto; max-width:56px; max-height:56px; width:auto; height:auto;" />
       </a>
     </td>
-    <td align="center" style="padding: 0; margin: 0; border: none; line-height: 0;">
+    <td align="center" valign="middle" width="80" height="80" style="width:80px; height:80px; padding:6px; margin:0; border:1px solid #30363d; line-height:0;">
       <a href="https://www.oracle.com/">
-        <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle" width="50" height="50"/>
+        <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle" style="display:block; margin:auto; max-width:56px; max-height:56px; width:auto; height:auto;" />
       </a>
     </td>
-    <!-- <td align="center" style="padding: 0; margin: 0; border: none; line-height: 0;">
+    <td align="center" valign="middle" width="80" height="80" style="width:80px; height:80px; padding:6px; margin:0; border:1px solid #30363d; line-height:0;">
       <a href="https://www.mysql.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" style="display:block; margin:auto; max-width:56px; max-height:56px; width:auto; height:auto;" />
       </a>
-    </td> -->
+    </td>
   </tr>
 </table>
 ---
