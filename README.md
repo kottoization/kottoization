@@ -12,7 +12,7 @@ An overview of my ongoing projects and continuous learning:
 - 🔭 I'm currently immersed in developing a TypeScript Web App integrating Microservices with Docker, alongside with a RAG LLM application.
 - 👨‍🎓 I have a Masters in Computer Science and Econometrics.
 - 🧩 I love solving problems!
-- 📚 I am currently learning: LLM RAG || Agent Systems || Deep Learning || Microservices.
+- 📚 I am currently learning: LLM RAG || Agent Systems || Microservices || TypeScript.
 - 🔍 My future learning plans/projects:  Algorithmic Trading || Blockchain related technologies.
 - 🚀 I am interested in expanding my Machine Learning and Backend Development knowledge in the future.
  ---
